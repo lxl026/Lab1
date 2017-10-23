@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/19snow93/ShopCartLogic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yanglh751202951/SYSU_Android3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Leon\AndroidStudioProjects" />
